@@ -54,4 +54,4 @@ frida-ps -U
   17. Hook fridascript.js into target application
 
 //frida -U -f <your_application_package_name> -l <path_to_fridascript.js_on_your_computer> --no-paus
-18. Intercept traffic in BurpSuite.
+
